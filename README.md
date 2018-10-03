@@ -1,4 +1,4 @@
-#Rails Projects
+# Rails Projects
 
 
 This repository consists of all the projects which I have built while learning Ruby on Rails.
